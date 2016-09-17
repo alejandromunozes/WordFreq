@@ -1,7 +1,7 @@
 Wordfrec
 ========
 
-This script is used to get the words and their frequencies from one os several xml, html and txt files and to store them in a database.
+This script is used to get the words and their frequencies from one or several xml, html and txt files and to store them in a database.
 
 
 How to use
@@ -9,11 +9,12 @@ How to use
 
 The input files must be xml, html or txt. Python 3 is required. Command:
 
-  python3 wordfreq.py file1 file2 file3...
+     python3 wordfreq.py file1 file2 file3...
 
 You get the database ('wordfreq.db') with all the word forms (not lemmas) and their frequencies.
 
 License
 *******
 
-*General Public Licence*. See *LICENSE* file
+*General Public License*. See *LICENSE* file
+
