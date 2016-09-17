@@ -129,7 +129,7 @@ else:
             tlist = cleantext(text)
             tdict = textdict(tlist)
             intodb(tdict)
-        print('The word frequency database ("wordfreq.db" is ready.')
+        print('The word frequency database ("wordfreq.db") is ready.')
     except:
         print('Usage:')
         print('python3 wordfreq.py file1 file2...')
