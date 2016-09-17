@@ -1,7 +1,7 @@
 Wordfrec
 ========
 
-Script is used to get the words and their frequencies from one os several xml, html and txt files and to store them in a database.
+This script is used to get the words and their frequencies from one os several xml, html and txt files and to store them in a database.
 
 
 How to use
